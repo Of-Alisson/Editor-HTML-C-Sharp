@@ -1,0 +1,15 @@
+C:\Dev\Editor_html\bin\Debug\net6.0\Editor_html.exe
+C:\Dev\Editor_html\bin\Debug\net6.0\Editor_html.deps.json
+C:\Dev\Editor_html\bin\Debug\net6.0\Editor_html.runtimeconfig.json
+C:\Dev\Editor_html\bin\Debug\net6.0\Editor_html.dll
+C:\Dev\Editor_html\bin\Debug\net6.0\ref\Editor_html.dll
+C:\Dev\Editor_html\bin\Debug\net6.0\Editor_html.pdb
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.csproj.AssemblyReference.cache
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.AssemblyInfoInputs.cache
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.AssemblyInfo.cs
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.csproj.CoreCompileInputs.cache
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.dll
+C:\Dev\Editor_html\obj\Debug\net6.0\ref\Editor_html.dll
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.pdb
+C:\Dev\Editor_html\obj\Debug\net6.0\Editor_html.genruntimeconfig.cache
