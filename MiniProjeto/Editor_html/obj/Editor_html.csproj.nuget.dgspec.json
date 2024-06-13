@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Editor_html\\Editor_html.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Editor-HTML-C-Sharp\\MiniProjeto\\Editor_html\\Editor_html.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Editor_html\\Editor_html.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Editor-HTML-C-Sharp\\MiniProjeto\\Editor_html\\Editor_html.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Editor_html\\Editor_html.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Editor-HTML-C-Sharp\\MiniProjeto\\Editor_html\\Editor_html.csproj",
         "projectName": "Editor_html",
-        "projectPath": "C:\\Dev\\Editor_html\\Editor_html.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Editor-HTML-C-Sharp\\MiniProjeto\\Editor_html\\Editor_html.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Editor_html\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Editor-HTML-C-Sharp\\MiniProjeto\\Editor_html\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
